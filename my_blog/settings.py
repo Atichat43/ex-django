@@ -25,7 +25,7 @@ SECRET_KEY = '0oqpk&k@$j2%5#b=uaa05%p+_8u6d(z=7-e-uyk(f$_@q^5l(^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['atichat43.pythonanywhere.com']
 
 
 # Application definition
